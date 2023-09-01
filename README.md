@@ -1,5 +1,4 @@
 # Hello there, I am Ravi Chandera
-Hi there! 
 I am pursuing a master's in **Artificial Intelligence at IIT Patna**. I have a strong foundation in advanced **statistical analysis, machine learning, and deep learning techniques**, enabling me to develop accurate and robust predictive models.
 
 My work includes data preprocessing, feature engineering, and dimensionality reduction techniques to extract meaningful insights and improve model performance.
