@@ -1,4 +1,4 @@
-#ABOUT ME
+###ABOUT ME
 Hi there! 
 I am pursuing a master's in Artificial Intelligence at IIT Patna. I have a strong foundation in advanced statistical analysis, machine learning, and deep learning techniques, enabling me to develop accurate and robust predictive models.
 
@@ -10,7 +10,7 @@ Specialisation in natural language processing (NLP) helps me to understand both 
 
 I know the design and implementation of convolutional neural networks (CNNs) and advanced architectures such as ResNet, VGG, and Inception. This allows me to achieve state-of-the-art performance on image classification, object detection, and semantic segmentation tasks.
 
-#Projects
+###Projects
 1.
 2.
 3.
