@@ -12,6 +12,9 @@ I have master's in **Artificial Intelligence from IIT Patna**. There I did one y
 
 I did bachelor's in **Mechanical Engineering**. There I did learn about robotics, industry 4.0 and optimization. Also gained strong hold on probability and statistics. And learned about cars, hell yehh.
 
+# Why should you hire me?
+If you want to get positive business impact with your data, I am the right guy for you. Even if you just have idea in mind and no data, I can help you convert that idea to impact. I can help you for data collection, model building, model deployment, and many more things... Really, what else do you need?
+
 # Projects
 1. [Insights For Disaster Management Using Real-time Multi-modal Data](https://ravichandera.notion.site/2-Real-time-multimodal-data-fusion-f2ef032dca6346a8892d1e5ed06f2d1b)
 2. [Multi class Medical Text Classification](https://ravichandera.notion.site/Multi-class-Medical-Text-Classification-f1257d399216483089cc2d395b39a506)
