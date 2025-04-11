@@ -1,4 +1,4 @@
-# Hello there, I am Ravi Chandera
+# Hello, I am Ravi Chandera
 I am working in AI at convegenius ai. I am part of product that generates insights from databases. On system level, It is Natural Language(NL) to SQL problem. 
 # Skills 
 1. Python
