@@ -10,6 +10,8 @@ I am working in AI at convegenius ai. I am part of product that generates insigh
 # Education
 I have master's in **Artificial Intelligence from IIT Patna**. There I did one year of research project with TCS. It was about Insights generations from multimodal disaster data. Aprt from that, coursework taught me machine learning, NLP and computer vision. Assigments taught me about data preprocessing, feature engineering, and dimensionality reduction techniques to extract meaningful insights and improve model performance.
 
+I did bachelor's in **Mechanical Engineering**. There I did learn about robotics, industry 4.0 and optimization. Also gained strong hold on probability and statistics. And learned about cars, hell yehh.
+
 # Projects
 1. [Insights For Disaster Management Using Real-time Multi-modal Data](https://ravichandera.notion.site/2-Real-time-multimodal-data-fusion-f2ef032dca6346a8892d1e5ed06f2d1b)
 2. [Multi class Medical Text Classification](https://ravichandera.notion.site/Multi-class-Medical-Text-Classification-f1257d399216483089cc2d395b39a506)
