@@ -1,5 +1,5 @@
 # Hello, I am Ravi Chandera
-I am working in AI at convegenius ai. I am part of product that generates insights from databases. On system level, It is Natural Language(NL) to SQL problem. 
+I am working in AI at convegenius ai. I am part of product that generates insights from databases. On system level, It is Natural Language(NL) to SQL problem. I have made product complex so users can get insights with simple english text. Used agents, parallel processing, cost savings, fine tuning of embedding models, prompting and caching to solve complex user questions. Automated text entire pipeline so addition of new datasets become one click process. 
 # Skills 
 1. Python
 2. Pytorch/ Tensorflow
